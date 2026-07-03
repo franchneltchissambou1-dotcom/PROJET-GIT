@@ -2,5 +2,5 @@
 import pandas as pd
 
 def transform(df):
-    # TODO: nettoyer les données
+    # TODO: supprimer les valeurs nulles avec dropna()
     pass
